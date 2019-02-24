@@ -1,0 +1,16 @@
+/content/darknet/Dataset/LH_Tablewear/DSCF6465.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6503.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6537.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6463.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6518.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6554.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6495.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6435.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6462.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6446.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6431.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6454.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6581.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6552.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6515.JPG
+/content/darknet/Dataset/LH_Tablewear/DSCF6439.JPG

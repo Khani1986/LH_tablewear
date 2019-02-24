@@ -1,0 +1,5 @@
+classes= 4  
+train  = train_LH_Tablewear.txt 
+valid  = test_LH_Tablewear.txt
+names = obj_LH_Tablewear.names  
+backup = backup/ 
